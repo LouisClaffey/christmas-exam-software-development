@@ -4,7 +4,7 @@ Software development christmas exam, written in java developed in netbeans.
 A chirstmas software-development exam, written in java developed in netbeans.
 
 Students had 48 hours to complete the following tasks. I recieved 95% for my efforts.
-Copy and paste code into java files in an IDE project, or download files and run on textpad.
+Copy and paste code into java files in an IDE project, or download files, compile and run on textpad.
 
 ------------------------------------------Question 1--------------------------------------------------
 
