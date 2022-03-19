@@ -7,6 +7,7 @@ Students had 48 hours to complete the following tasks. I recieved 95% for my eff
 Copy and paste code into java files in an IDE project, or download files and run on textpad.
 
 ---------------------------------------------Question 1-------------------------------------------------------------------------
+
 [Part A]
 
 A company has hired you to develop an application to generate certain items for their employees’ accounts. The application prompts the user to provide one
@@ -34,6 +35,7 @@ created and displayed on the screen, ask the user if they would like to create a
 as described in the previous sentence. When the user enters anything else than “yes”, no other items are created.
 
 ------------------------------------------------Question 2-----------------------------------------------------------------------
+
 [Part A]
 
 First, implement in the instantiable class ItemGenerator (the instantiable class previously developed at Question 1. a.) another method which takes in
