@@ -6,7 +6,7 @@ A chirstmas software-development exam, written in java developed in netbeans.
 Students had 48 hours to complete the following tasks. I recieved 95% for my efforts.
 Copy and paste code into java files in an IDE project, or download files and run on textpad.
 
----------------------------------------------Question 1-------------------------------------------------------------------------
+------------------------------------------Question 1--------------------------------------------------
 
 [Part A]
 
@@ -34,7 +34,7 @@ The application should allow a user to enter multiple employees’ full names. A
 created and displayed on the screen, ask the user if they would like to create another item. As long as the user enters “yes” the application should work
 as described in the previous sentence. When the user enters anything else than “yes”, no other items are created.
 
-------------------------------------------------Question 2-----------------------------------------------------------------------
+------------------------------------------Question 2--------------------------------------------------
 
 [Part A]
 
